@@ -1,2 +1,3 @@
-Hello,
 This is a test file
+This file is updated to test 
+Further commit changes 
